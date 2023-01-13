@@ -1,0 +1,33 @@
+.jumbotron{
+    background-color: rgba(163, 87, 226, 0.8);
+    color: white;
+    margin: 0;
+}
+
+.titlehistory{
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+.detail{
+    margin-bottom: 8%;
+}
+
+.footer{
+    background-color: rgba(163, 87, 226, 0.3);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.list-unstyled{
+    font-size: larger;
+}
+
+.address{
+    font-size: medium;
+}
+
+.col-auto{
+    font-weight: 500;
+    font-size: larger;
+}
